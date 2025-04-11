@@ -1,4 +1,4 @@
-# Android Multi-Display Messaging App
+# Android Multi-Display App
 
 This is a sample Android application that demonstrates how to send messages from the main screen to a secondary display using the `Presentation` API.
 
